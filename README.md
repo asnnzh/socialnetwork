@@ -1,2 +1,2 @@
 # socialnetwork
-social network project
+social network project in django with database(postgres)
